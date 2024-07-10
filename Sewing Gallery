@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>2024 Sewing Gallery</title>
+</head>
+<body>
+  <h1>2024 Sewing Gallery</h1>
+  Hi! I'm Melissa, and I love to sew. 2024 has been a productive sewing year for me so far, so I thought I'd share my portfolio of projects with some information about the drafting &amp; construction process. Click to jump to any particular piece:
+  <p><a href="#pencilskirt">Pencil Skirt</a> &emsp; <a href="#festivaltop">Festival Top</a> &emsp; <a href="#graduationdress">Graduation dress</a> &emsp; <a href="#lightweightbuttondown">Lightweight button-down</a> &emsp; <a href="#maxidress">Maxi Dress</a> &emsp; <a href="#monsterapron">Monster Apron</a> &emsp; <a href="#kimono">Kimono</a></p>
+  <ol>
+    <li id="pencilskirt"><h2>Pencil Skirt</h2>
+      <ul>
+        <li>This was my first project of the year. I love this luxe fabric, although the end result turned out a little fancier than I'd expected!</li>
+        <li>Fabric: jacquard knit</li>
+        <li>Pattern: self-drafted using <a href="https://so-sew-easy.com/making-a-pencil-skirt-sloper/" title="Pencil skirt tutorial" target="_blank">this tutorial</a>
+      </ul>
+    </li>
+    <li id="festivaltop"><h2>Festival Top</h2>
+      <ul>
+        <li>As soon as we bought tickets to the Celtic Festival in Grass Valley, I was hit with the inspiration for this fun and flirty top. The fabric was a dream to work with, and I made my own bias tape for the first time - a process that I've brought to several other projects this year.</li>
+        <li>Fabric: rayon/linen blend</li>
+        <li>Pattern: self-drafted by tracing & altering existing patterns</li>
+      </ul>
+    </li>
+    <li id="graduationdress"><h2>Graduation Dress</h2>
+      <ul>
+        <li>I'd been planning this project for a while, and I am mostly in love with how it came out. I wish that the lace had more drape, but I think it's still a stylish and flattering dress.</li>
+        <li>Fabric: polyester lace &amp; polyester or poly/cotton lining</li>
+        <li>Pattern: Simplicity 7082, a vintage 1967 pattern</li>
+      </ul>
+    </li>
+    <li id="lightweightbuttondown"><h2>Lightweight Button-down</h2>
+      <ul>
+        <li>I was so happy with this project! I finally made it after buying the fabric &amp; conceiving of the design a year earlier. The shirt is perfect for those hot summer days.</li>
+        <li>Fabric: cotton gauze</li>
+        <li>Pattern: self-drafted by tracing & altering an existing shirt</li>
+      </ul>
+    </li>
+    <li id="maxidress"><h2>Maxi Dress</h2>
+      <ul>
+        <li>This was a quick &amp; satisfying project that involved overcoming a tragic mistake: I accidentally cut a large slit in the skirt while trimming the seam allowance. It took some extra trimming and seam ripping, but the dress turned out great.</li>
+        <li>Fabric: pre-smocked rayon</li>
+        <li>Pattern: self-drafted, but referenced <a href="https://www.joann.com/smocked-dress/92481907P100.html" title="Joann tutorial" target="_blank">this tutorial from Joann.</a></li>
+      </ul>
+    </li>
+    <li id="monsterapron"><h2>Monster Apron</h2>
+      <ul>
+        <li>I whipped this up in a single morning after my son dug the fabric out of a giveaway bag. I'm so happy with how it turned out - and so is he!</li>
+        <li>Fabric: quilting cotton</li>
+        <li>Pattern: tweaked <a href="https://www.sewmuchado.com/the-little-apron-free-pattern-and-tutorial/" title="kids apron tutorial" target="_blank">this tutorial</a> by adding a facing fabric to both the apron and the pocket.</li>
+      </ul>
+    </li>
+    <li id="kimono"><h2>Kimono</h2>
+      <ul>
+        <li>Repeat after me: Always. Make. A. Muslin. That would have helped me avoid the unfortunate first draft of this piece, which turned out absolutely huge. Luckily, I had lots of this fabric, so I took several inches off both length and width to create this more flattering silhouette.</li>
+        <li>Fabric: lightweight wool</li>
+        <li>Pattern: New Look 6378, heavily downsized!</li>
+      </ul>
+    </li>
+  </ol>
+</body>
