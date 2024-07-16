@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    font-family: 'Garamond';
+  }
+  ol {
+    text-align: left;
+  }
+  li a {
+color: blue;
+}
+  ul li {
+    color: #870335;
+  }
+  h1 {
+    color: purple;
+    text-align: center;
+  }
+  p a {
+    text-decoration: none;
+    color: black;
+    background-color: #f0c2d4;
+    border: 2px solid #870335;
+    padding: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+  p a:hover {
+    background-color: white;
+  }
+  #logo {
+    background: url(madebymelissac.png);
+    width: 150px;
+    height: 100px;
+    margin: 10px 15px 10px 0;
+    float: left;
+  }
+  #intro {
+    text-align: center;
+    border: 2px solid black;
+    width: 800px;
+    margin: 0 auto;
+    padding: 2px;
+  }
+  #menu {
+    font-size: 130%;
+    font-weight: bold;
+  }
