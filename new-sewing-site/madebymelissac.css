@@ -1,0 +1,20 @@
+* {
+	color: white;
+	font-family: 'Cheque', sans-serif;
+}
+
+.navbar .navbar-brand, .navbar .nav-link {
+	color: white;
+}
+
+body {
+	background: url(galaxy.jpg) no-repeat center center fixed;
+	background-size: cover;
+	margin: 0;
+	padding:0;
+}
+
+h1 {
+	font-size: 5em;
+	text-align: center;
+}
