@@ -12,9 +12,22 @@ body {
 	background-size: cover;
 	margin: 0;
 	padding:0;
+
+}
+
+#home {
+	display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 25vh;
 }
 
 h1 {
 	font-size: 5em;
-	text-align: center;
 }
+
+.grid-container {
+            display: grid;
+            grid-template-rows: auto 1fr; /* Navbar height is auto, home section takes the remaining space */
+            height: 100vh;
+        }
