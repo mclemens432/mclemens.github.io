@@ -13,21 +13,14 @@ body {
 	background-size: cover;
 }
 
-#home {
-	display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    padding-top: 15vh;
-}
-
 h1 {
 	font-size: 7vw;
 }
 
 .grid-container {
-            display: grid;
-            grid-template-rows: auto 1fr; /* Navbar height is auto, home section takes the remaining space */
-            height: 100vh;
+	display: grid;
+	grid-template-rows: auto 1fr; /* Navbar height is auto, home section takes the remaining space */
+	height: 100vh;
         }
 
 .home-tile {
@@ -43,4 +36,11 @@ h1 {
 
 .home-tile:hover {
 	box-shadow: 5px 5px 5px #baadce;
+}
+
+.panel-footer {
+	height: 10vh;
+	color: white;
+	background-color: #baadce;
+	opacity: 0.2;
 }
